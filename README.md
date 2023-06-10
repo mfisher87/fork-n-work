@@ -1,6 +1,8 @@
 # fork-n-work
 
-Skip all the steps to making small contributions to public software. Forks a repo, clones it to a local workspace, and changes directory to that workspace.
+Skip all the boring steps and start working on open source software.
+Minimize the amount of typing and clicking you need to do to get started.
+Forks a repo, clones it to a local workspace, and changes directory to that workspace.
 
 _This project doesn't exist. It's just an idea for now._
 
